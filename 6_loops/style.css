@@ -1,0 +1,51 @@
+#ptag {
+    font-size: 50px;
+    align-items: center;
+    font-weight: bold;
+    color: rgb(27, 39, 198);
+    border: 6px solid black;
+    border-radius: 10px;
+    background-color: rgb(222, 180, 26);
+    padding: 60px;
+}
+
+#pattern {
+    border: 5px black solid;
+    padding: 25px;
+    background-color: lightblue;
+    border-radius: 16px;
+    align-items: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: rgb(3, 3, 105);
+    align-items: center;
+
+}
+
+#submit {
+    border-radius: 300px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 3px;
+    align-items: center;
+    color: rgb(8, 7, 5);
+    background-color: lightblue;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#rows {
+    border: 5px solid red;
+    width: 40px;
+    font-weight: bold;
+
+}
+
+#print {
+    color: white;
+    font-size: 25px;
+}
